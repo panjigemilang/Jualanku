@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "134600357072",
+    "firebase_url": "https://newagent-d724d.firebaseio.com",
+    "project_id": "newagent-d724d",
+    "storage_bucket": "newagent-d724d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134600357072:android:21c57e963403d5f5dd5ad5",
+        "android_client_info": {
+          "package_name": "com.jualanku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134600357072-549pval5d3jit4f623orch8cg257necj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtsuaDmDCHAkW571Zv-9mnUHjjcmFHILw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134600357072-549pval5d3jit4f623orch8cg257necj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
