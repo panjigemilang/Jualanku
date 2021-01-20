@@ -1,0 +1,2 @@
+// clean gradle
+cd android "gradlew clean"
