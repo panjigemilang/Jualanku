@@ -14,7 +14,7 @@ const Loader = () => {
         <ActivityIndicator
           size="large"
           animating={loading}
-          color={color.WHITE}
+          color={colors.WHITE}
           style={{
             left: Platform.OS === 'ios' ? 1.3 : 0,
             top: Platform.OS === 'ios' ? 1 : 0,
